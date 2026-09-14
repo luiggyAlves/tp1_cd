@@ -1,0 +1,53 @@
+{
+  "etapa": "Limpeza e tratamento",
+  "data_processamento": "2026-09-13T14:33:04.598040",
+  "decisoes": [
+    "Melt/Unpivot de Cota_01..Cota_31 para formato diário",
+    "Construção de data: ano+mês (Data_Hora_Dado) + dia (Cota_NN)",
+    "Remoção de dias inválidos e leituras vazias",
+    "Agregação diária da telemétrica (mediana)",
+    "Deduplicação: convencional tem prioridade",
+    "Outliers: cota fora de [-500, 5000] cm → NaN",
+    "Enriquecimento com dados geográficos da estação",
+    "Colunas derivadas: periodo_hidrologico, trimestre, etc."
+  ],
+  "resultado": {
+    "n_registros": 37471,
+    "n_estacoes": 37,
+    "periodo": "2021-01-01 a 2026-09-13",
+    "colunas": [
+      "data",
+      "codigo_estacao",
+      "nome_estacao",
+      "cota_cm",
+      "vazao_m3s",
+      "chuva_mm",
+      "rio",
+      "uf",
+      "municipio",
+      "bacia",
+      "sub_bacia",
+      "latitude",
+      "longitude",
+      "altitude",
+      "area_drenagem_km2",
+      "ano",
+      "mes",
+      "dia",
+      "trimestre",
+      "dia_semana",
+      "periodo_hidrologico",
+      "fonte_dados",
+      "nivel_consistencia",
+      "tipo_medicao",
+      "Dia_Maxima",
+      "Dia_Minima",
+      "cota_maxima_mes_cm",
+      "cota_media_mes_cm",
+      "cota_mediadiaria_mes_cm",
+      "cota_minima_mes_cm",
+      "uf_nome",
+      "operando"
+    ]
+  }
+}

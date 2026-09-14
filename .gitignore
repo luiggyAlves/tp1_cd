@@ -1,0 +1,17 @@
+.claude
+
+# Credenciais
+.env
+
+# Dados brutos (grandes, regeneráveis via notebook + .env)
+Dados_precos/Dados Brutos/
+Dados_precos/txts conab/
+Dados_nivel_rios/Dados Brutos/
+
+# Arquivos tratados grandes demais/não usados na integração (detalhe linha-a-linha, não agregado)
+Dados_precos/Dados Tratados/antaq_carga_am_detalhado_2020_2026.csv
+Dados_precos/Dados Tratados/anp_slp_precos_norte.csv
+Dados_precos/Dados Tratados/anp_slp_precos_manaus.csv
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
