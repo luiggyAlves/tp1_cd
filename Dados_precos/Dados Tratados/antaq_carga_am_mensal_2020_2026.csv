@@ -1,0 +1,721 @@
+AnoMes,Natureza da Carga,Sentido,ToneladasMovimentadas
+2018-10,Carga Geral,Desembarcados,1846.0
+2018-10,Carga Geral,Embarcados,979.0
+2019-12,Carga Conteinerizada,Desembarcados,115217.325
+2019-12,Carga Conteinerizada,Embarcados,39075.279
+2019-12,Carga Geral,Desembarcados,21942.260000000002
+2019-12,Carga Geral,Embarcados,3836.0
+2019-12,Granel Líquido e Gasoso,Desembarcados,4293.018
+2019-12,Granel Líquido e Gasoso,Embarcados,26333.356999999996
+2019-12,Granel Sólido,Desembarcados,19442.289
+2019-12,Granel Sólido,Embarcados,57056.501
+2020-01,Carga Conteinerizada,Desembarcados,409695.634
+2020-01,Carga Conteinerizada,Embarcados,178492.146
+2020-01,Carga Geral,Desembarcados,135866.681
+2020-01,Carga Geral,Embarcados,52156.614
+2020-01,Granel Líquido e Gasoso,Desembarcados,527818.845
+2020-01,Granel Líquido e Gasoso,Embarcados,384349.68
+2020-01,Granel Líquido e Gasoso,Não Informado,7884.524
+2020-01,Granel Sólido,Desembarcados,222623.958
+2020-01,Granel Sólido,Embarcados,255498.39500000002
+2020-02,Carga Conteinerizada,Desembarcados,389009.765
+2020-02,Carga Conteinerizada,Embarcados,158910.557
+2020-02,Carga Conteinerizada,Não Informado,185.87
+2020-02,Carga Geral,Desembarcados,144487.638
+2020-02,Carga Geral,Embarcados,54476.769
+2020-02,Granel Líquido e Gasoso,Desembarcados,517995.137
+2020-02,Granel Líquido e Gasoso,Embarcados,411595.377
+2020-02,Granel Líquido e Gasoso,Não Informado,3828.919
+2020-02,Granel Sólido,Desembarcados,545552.32
+2020-02,Granel Sólido,Embarcados,534818.387
+2020-03,Carga Conteinerizada,Desembarcados,389955.138
+2020-03,Carga Conteinerizada,Embarcados,197142.716
+2020-03,Carga Geral,Desembarcados,152983.836
+2020-03,Carga Geral,Embarcados,61275.929
+2020-03,Granel Líquido e Gasoso,Desembarcados,480787.785
+2020-03,Granel Líquido e Gasoso,Embarcados,426413.403
+2020-03,Granel Líquido e Gasoso,Não Informado,10044.158
+2020-03,Granel Sólido,Desembarcados,591731.301
+2020-03,Granel Sólido,Embarcados,513478.603
+2020-04,Carga Conteinerizada,Desembarcados,405956.538
+2020-04,Carga Conteinerizada,Embarcados,151498.881
+2020-04,Carga Conteinerizada,Não Informado,32.3
+2020-04,Carga Geral,Desembarcados,89681.686
+2020-04,Carga Geral,Embarcados,25373.132
+2020-04,Granel Líquido e Gasoso,Desembarcados,471352.16599999997
+2020-04,Granel Líquido e Gasoso,Embarcados,415232.451
+2020-04,Granel Líquido e Gasoso,Não Informado,5498.065
+2020-04,Granel Sólido,Desembarcados,598370.764
+2020-04,Granel Sólido,Embarcados,438500.595
+2020-05,Carga Conteinerizada,Desembarcados,299507.248
+2020-05,Carga Conteinerizada,Embarcados,125700.563
+2020-05,Carga Conteinerizada,Não Informado,5.608
+2020-05,Carga Geral,Desembarcados,141889.791
+2020-05,Carga Geral,Embarcados,30535.1
+2020-05,Granel Líquido e Gasoso,Desembarcados,430695.484
+2020-05,Granel Líquido e Gasoso,Embarcados,368526.127
+2020-05,Granel Líquido e Gasoso,Não Informado,7458.355
+2020-05,Granel Sólido,Desembarcados,683477.122
+2020-05,Granel Sólido,Embarcados,561685.47
+2020-06,Carga Conteinerizada,Desembarcados,405723.017
+2020-06,Carga Conteinerizada,Embarcados,168043.54
+2020-06,Carga Conteinerizada,Não Informado,38.6
+2020-06,Carga Geral,Desembarcados,183809.92799999999
+2020-06,Carga Geral,Embarcados,56542.069
+2020-06,Granel Líquido e Gasoso,Desembarcados,523995.94
+2020-06,Granel Líquido e Gasoso,Embarcados,384975.848
+2020-06,Granel Líquido e Gasoso,Não Informado,5018.622
+2020-06,Granel Sólido,Desembarcados,532474.439
+2020-06,Granel Sólido,Embarcados,490950.64400000003
+2020-07,Carga Conteinerizada,Desembarcados,417030.272
+2020-07,Carga Conteinerizada,Embarcados,182856.42799999999
+2020-07,Carga Conteinerizada,Não Informado,26.400000000000002
+2020-07,Carga Geral,Desembarcados,173661.169
+2020-07,Carga Geral,Embarcados,65673.963
+2020-07,Granel Líquido e Gasoso,Desembarcados,598726.252
+2020-07,Granel Líquido e Gasoso,Embarcados,404308.832
+2020-07,Granel Líquido e Gasoso,Não Informado,6257.929
+2020-07,Granel Sólido,Desembarcados,521150.968
+2020-07,Granel Sólido,Embarcados,520652.051
+2020-08,Carga Conteinerizada,Desembarcados,460517.153
+2020-08,Carga Conteinerizada,Embarcados,201046.227
+2020-08,Carga Conteinerizada,Não Informado,11.73
+2020-08,Carga Geral,Desembarcados,174470.988
+2020-08,Carga Geral,Embarcados,75931.872
+2020-08,Granel Líquido e Gasoso,Desembarcados,624193.436
+2020-08,Granel Líquido e Gasoso,Embarcados,434649.081
+2020-08,Granel Líquido e Gasoso,Não Informado,9387.454
+2020-08,Granel Sólido,Desembarcados,409706.966
+2020-08,Granel Sólido,Embarcados,215217.084
+2020-09,Carga Conteinerizada,Desembarcados,446449.042
+2020-09,Carga Conteinerizada,Embarcados,185319.504
+2020-09,Carga Conteinerizada,Não Informado,7.32
+2020-09,Carga Geral,Desembarcados,198731.496
+2020-09,Carga Geral,Embarcados,69340.717
+2020-09,Granel Líquido e Gasoso,Desembarcados,467924.47
+2020-09,Granel Líquido e Gasoso,Embarcados,361910.983
+2020-09,Granel Líquido e Gasoso,Não Informado,4453.115999999999
+2020-09,Granel Sólido,Desembarcados,206052.207
+2020-09,Granel Sólido,Embarcados,282083.94800000003
+2020-10,Carga Conteinerizada,Desembarcados,418838.21
+2020-10,Carga Conteinerizada,Embarcados,225811.279
+2020-10,Carga Conteinerizada,Não Informado,19.5
+2020-10,Carga Geral,Desembarcados,181446.93
+2020-10,Carga Geral,Embarcados,76632.619
+2020-10,Granel Líquido e Gasoso,Desembarcados,470285.968
+2020-10,Granel Líquido e Gasoso,Embarcados,400766.104
+2020-10,Granel Líquido e Gasoso,Não Informado,2384.381
+2020-10,Granel Sólido,Desembarcados,234846.507
+2020-10,Granel Sólido,Embarcados,238380.085
+2020-11,Carga Conteinerizada,Desembarcados,430910.143
+2020-11,Carga Conteinerizada,Embarcados,219381.152
+2020-11,Carga Geral,Desembarcados,219126.91
+2020-11,Carga Geral,Embarcados,89473.206
+2020-11,Granel Líquido e Gasoso,Desembarcados,474781.665
+2020-11,Granel Líquido e Gasoso,Embarcados,358797.594
+2020-11,Granel Líquido e Gasoso,Não Informado,2276.801
+2020-11,Granel Sólido,Desembarcados,191964.127
+2020-11,Granel Sólido,Embarcados,198560.805
+2020-12,Carga Conteinerizada,Desembarcados,482566.908
+2020-12,Carga Conteinerizada,Embarcados,187730.533
+2020-12,Carga Conteinerizada,Não Informado,268.1
+2020-12,Carga Geral,Desembarcados,176206.757
+2020-12,Carga Geral,Embarcados,83551.389
+2020-12,Granel Líquido e Gasoso,Desembarcados,502013.876
+2020-12,Granel Líquido e Gasoso,Embarcados,325223.378
+2020-12,Granel Líquido e Gasoso,Não Informado,4963.775
+2020-12,Granel Sólido,Desembarcados,408236.592
+2020-12,Granel Sólido,Embarcados,375250.632
+2021-01,Carga Conteinerizada,Desembarcados,482126.055
+2021-01,Carga Conteinerizada,Embarcados,225960.3
+2021-01,Carga Conteinerizada,Não Informado,19.2
+2021-01,Carga Geral,Desembarcados,170558.886
+2021-01,Carga Geral,Embarcados,59465.552
+2021-01,Granel Líquido e Gasoso,Desembarcados,408418.569
+2021-01,Granel Líquido e Gasoso,Embarcados,311602.802
+2021-01,Granel Líquido e Gasoso,Não Informado,4132.757
+2021-01,Granel Sólido,Desembarcados,315858.121
+2021-01,Granel Sólido,Embarcados,265004.325
+2021-02,Carga Conteinerizada,Desembarcados,435082.455
+2021-02,Carga Conteinerizada,Embarcados,192064.174
+2021-02,Carga Geral,Desembarcados,186269.142
+2021-02,Carga Geral,Embarcados,53521.081
+2021-02,Granel Líquido e Gasoso,Desembarcados,471132.462
+2021-02,Granel Líquido e Gasoso,Embarcados,272482.63
+2021-02,Granel Líquido e Gasoso,Não Informado,6401.5689999999995
+2021-02,Granel Sólido,Desembarcados,470969.623
+2021-02,Granel Sólido,Embarcados,565581.172
+2021-03,Carga Conteinerizada,Desembarcados,418752.743
+2021-03,Carga Conteinerizada,Embarcados,242543.983
+2021-03,Carga Conteinerizada,Não Informado,6.61
+2021-03,Carga Geral,Desembarcados,166919.814
+2021-03,Carga Geral,Embarcados,79209.234
+2021-03,Granel Líquido e Gasoso,Desembarcados,380505.901
+2021-03,Granel Líquido e Gasoso,Embarcados,322175.906
+2021-03,Granel Líquido e Gasoso,Não Informado,4564.164
+2021-03,Granel Sólido,Desembarcados,636462.597
+2021-03,Granel Sólido,Embarcados,549397.276
+2021-04,Carga Conteinerizada,Desembarcados,368446.849
+2021-04,Carga Conteinerizada,Embarcados,156199.067
+2021-04,Carga Conteinerizada,Não Informado,25.18
+2021-04,Carga Geral,Desembarcados,141928.044
+2021-04,Carga Geral,Embarcados,71948.979
+2021-04,Granel Líquido e Gasoso,Desembarcados,485260.301
+2021-04,Granel Líquido e Gasoso,Embarcados,338140.305
+2021-04,Granel Líquido e Gasoso,Não Informado,3539.078
+2021-04,Granel Sólido,Desembarcados,577040.661
+2021-04,Granel Sólido,Embarcados,461828.005
+2021-05,Carga Conteinerizada,Desembarcados,438407.263
+2021-05,Carga Conteinerizada,Embarcados,187755.929
+2021-05,Carga Geral,Desembarcados,188122.812
+2021-05,Carga Geral,Embarcados,125489.763
+2021-05,Granel Líquido e Gasoso,Desembarcados,506455.615
+2021-05,Granel Líquido e Gasoso,Embarcados,396247.781
+2021-05,Granel Líquido e Gasoso,Não Informado,3733.977
+2021-05,Granel Sólido,Desembarcados,537384.512
+2021-05,Granel Sólido,Embarcados,546444.118
+2021-06,Carga Conteinerizada,Desembarcados,507841.571
+2021-06,Carga Conteinerizada,Embarcados,244789.714
+2021-06,Carga Conteinerizada,Não Informado,106.28999999999999
+2021-06,Carga Geral,Desembarcados,225909.025
+2021-06,Carga Geral,Embarcados,121732.289
+2021-06,Granel Líquido e Gasoso,Desembarcados,465004.169
+2021-06,Granel Líquido e Gasoso,Embarcados,388120.769
+2021-06,Granel Líquido e Gasoso,Não Informado,3438.771
+2021-06,Granel Sólido,Desembarcados,599639.771
+2021-06,Granel Sólido,Embarcados,475366.776
+2021-07,Carga Conteinerizada,Desembarcados,464570.44
+2021-07,Carga Conteinerizada,Embarcados,208471.00400000002
+2021-07,Carga Conteinerizada,Não Informado,101.8
+2021-07,Carga Geral,Desembarcados,263521.821
+2021-07,Carga Geral,Embarcados,70953.688
+2021-07,Granel Líquido e Gasoso,Desembarcados,545558.794
+2021-07,Granel Líquido e Gasoso,Embarcados,429934.551
+2021-07,Granel Líquido e Gasoso,Não Informado,1613.998
+2021-07,Granel Sólido,Desembarcados,565172.827
+2021-07,Granel Sólido,Embarcados,496843.191
+2021-08,Carga Conteinerizada,Desembarcados,464557.783
+2021-08,Carga Conteinerizada,Embarcados,227673.105
+2021-08,Carga Geral,Desembarcados,153854.315
+2021-08,Carga Geral,Embarcados,83153.695
+2021-08,Granel Líquido e Gasoso,Desembarcados,513332.248
+2021-08,Granel Líquido e Gasoso,Embarcados,358831.169
+2021-08,Granel Líquido e Gasoso,Não Informado,3172.634
+2021-08,Granel Sólido,Desembarcados,414373.96
+2021-08,Granel Sólido,Embarcados,439167.398
+2021-09,Carga Conteinerizada,Desembarcados,485599.16
+2021-09,Carga Conteinerizada,Embarcados,219721.542
+2021-09,Carga Conteinerizada,Não Informado,4.0
+2021-09,Carga Geral,Desembarcados,153161.619
+2021-09,Carga Geral,Embarcados,74956.489
+2021-09,Granel Líquido e Gasoso,Desembarcados,476506.667
+2021-09,Granel Líquido e Gasoso,Embarcados,283966.175
+2021-09,Granel Líquido e Gasoso,Não Informado,4581.825
+2021-09,Granel Sólido,Desembarcados,338330.28500000003
+2021-09,Granel Sólido,Embarcados,235555.78100000002
+2021-10,Carga Conteinerizada,Desembarcados,494917.472
+2021-10,Carga Conteinerizada,Embarcados,220990.983
+2021-10,Carga Conteinerizada,Não Informado,118.0
+2021-10,Carga Geral,Desembarcados,183504.948
+2021-10,Carga Geral,Embarcados,81924.198
+2021-10,Granel Líquido e Gasoso,Desembarcados,553611.173
+2021-10,Granel Líquido e Gasoso,Embarcados,341768.79
+2021-10,Granel Líquido e Gasoso,Não Informado,4644.105
+2021-10,Granel Sólido,Desembarcados,218832.448
+2021-10,Granel Sólido,Embarcados,78735.47
+2021-11,Carga Conteinerizada,Desembarcados,419076.791
+2021-11,Carga Conteinerizada,Embarcados,231736.697
+2021-11,Carga Conteinerizada,Não Informado,127.82
+2021-11,Carga Geral,Desembarcados,286433.28
+2021-11,Carga Geral,Embarcados,76569.538
+2021-11,Granel Líquido e Gasoso,Desembarcados,406710.312
+2021-11,Granel Líquido e Gasoso,Embarcados,345639.173
+2021-11,Granel Líquido e Gasoso,Não Informado,3754.109
+2021-11,Granel Sólido,Desembarcados,344554.718
+2021-11,Granel Sólido,Embarcados,368960.325
+2021-12,Carga Conteinerizada,Desembarcados,495879.071
+2021-12,Carga Conteinerizada,Embarcados,214655.336
+2021-12,Carga Conteinerizada,Não Informado,22.552
+2021-12,Carga Geral,Desembarcados,195033.986
+2021-12,Carga Geral,Embarcados,78405.387
+2021-12,Granel Líquido e Gasoso,Desembarcados,595981.125
+2021-12,Granel Líquido e Gasoso,Embarcados,368108.232
+2021-12,Granel Líquido e Gasoso,Não Informado,4190.906
+2021-12,Granel Sólido,Desembarcados,400015.904
+2021-12,Granel Sólido,Embarcados,299241.482
+2022-01,Carga Conteinerizada,Desembarcados,364988.089
+2022-01,Carga Conteinerizada,Embarcados,169887.965
+2022-01,Carga Geral,Desembarcados,166243.844
+2022-01,Carga Geral,Embarcados,57935.532
+2022-01,Granel Líquido e Gasoso,Desembarcados,508770.813
+2022-01,Granel Líquido e Gasoso,Embarcados,333146.04
+2022-01,Granel Líquido e Gasoso,Não Informado,4566.983
+2022-01,Granel Sólido,Desembarcados,491173.044
+2022-01,Granel Sólido,Embarcados,473793.581
+2022-02,Carga Conteinerizada,Desembarcados,417212.391
+2022-02,Carga Conteinerizada,Embarcados,185160.165
+2022-02,Carga Geral,Desembarcados,119798.494
+2022-02,Carga Geral,Embarcados,65808.124
+2022-02,Granel Líquido e Gasoso,Desembarcados,498517.751
+2022-02,Granel Líquido e Gasoso,Embarcados,341557.046
+2022-02,Granel Líquido e Gasoso,Não Informado,2459.911
+2022-02,Granel Sólido,Desembarcados,455963.676
+2022-02,Granel Sólido,Embarcados,577941.707
+2022-03,Carga Conteinerizada,Desembarcados,381815.626
+2022-03,Carga Conteinerizada,Embarcados,206460.904
+2022-03,Carga Conteinerizada,Não Informado,102.28
+2022-03,Carga Geral,Desembarcados,122203.126
+2022-03,Carga Geral,Embarcados,74315.317
+2022-03,Granel Líquido e Gasoso,Desembarcados,466460.482
+2022-03,Granel Líquido e Gasoso,Embarcados,366895.451
+2022-03,Granel Líquido e Gasoso,Não Informado,2075.285
+2022-03,Granel Sólido,Desembarcados,536545.4
+2022-03,Granel Sólido,Embarcados,488166.164
+2022-04,Carga Conteinerizada,Desembarcados,404911.222
+2022-04,Carga Conteinerizada,Embarcados,167020.411
+2022-04,Carga Geral,Desembarcados,136710.649
+2022-04,Carga Geral,Embarcados,70905.355
+2022-04,Granel Líquido e Gasoso,Desembarcados,450192.55
+2022-04,Granel Líquido e Gasoso,Embarcados,341778.483
+2022-04,Granel Líquido e Gasoso,Não Informado,716.426
+2022-04,Granel Sólido,Desembarcados,602651.551
+2022-04,Granel Sólido,Embarcados,511192.218
+2022-05,Carga Conteinerizada,Desembarcados,468345.507
+2022-05,Carga Conteinerizada,Embarcados,232298.417
+2022-05,Carga Conteinerizada,Não Informado,7.5
+2022-05,Carga Geral,Desembarcados,135573.727
+2022-05,Carga Geral,Embarcados,72626.502
+2022-05,Granel Líquido e Gasoso,Desembarcados,541487.503
+2022-05,Granel Líquido e Gasoso,Embarcados,402596.10599999997
+2022-05,Granel Líquido e Gasoso,Não Informado,570.708
+2022-05,Granel Sólido,Desembarcados,738905.307
+2022-05,Granel Sólido,Embarcados,652847.689
+2022-06,Carga Conteinerizada,Desembarcados,405917.754
+2022-06,Carga Conteinerizada,Embarcados,186118.665
+2022-06,Carga Geral,Desembarcados,178393.523
+2022-06,Carga Geral,Embarcados,67325.223
+2022-06,Granel Líquido e Gasoso,Desembarcados,470493.452
+2022-06,Granel Líquido e Gasoso,Embarcados,381617.474
+2022-06,Granel Líquido e Gasoso,Não Informado,2663.268
+2022-06,Granel Sólido,Desembarcados,504581.921
+2022-06,Granel Sólido,Embarcados,318783.927
+2022-07,Carga Conteinerizada,Desembarcados,436476.67
+2022-07,Carga Conteinerizada,Embarcados,207380.36000000002
+2022-07,Carga Geral,Desembarcados,143470.321
+2022-07,Carga Geral,Embarcados,69616.296
+2022-07,Granel Líquido e Gasoso,Desembarcados,554316.862
+2022-07,Granel Líquido e Gasoso,Embarcados,348241.754
+2022-07,Granel Líquido e Gasoso,Não Informado,6559.388
+2022-07,Granel Sólido,Desembarcados,565006.417
+2022-07,Granel Sólido,Embarcados,641633.457
+2022-08,Carga Conteinerizada,Desembarcados,417231.0
+2022-08,Carga Conteinerizada,Embarcados,176829.293
+2022-08,Carga Conteinerizada,Não Informado,26.88
+2022-08,Carga Geral,Desembarcados,124986.152
+2022-08,Carga Geral,Embarcados,71604.695
+2022-08,Granel Líquido e Gasoso,Desembarcados,438331.752
+2022-08,Granel Líquido e Gasoso,Embarcados,364215.647
+2022-08,Granel Líquido e Gasoso,Não Informado,5218.948
+2022-08,Granel Sólido,Desembarcados,550848.779
+2022-08,Granel Sólido,Embarcados,426713.989
+2022-09,Carga Conteinerizada,Desembarcados,474605.398
+2022-09,Carga Conteinerizada,Embarcados,208287.989
+2022-09,Carga Conteinerizada,Não Informado,2.28
+2022-09,Carga Geral,Desembarcados,185412.077
+2022-09,Carga Geral,Embarcados,77454.012
+2022-09,Granel Líquido e Gasoso,Desembarcados,464712.121
+2022-09,Granel Líquido e Gasoso,Embarcados,300285.262
+2022-09,Granel Líquido e Gasoso,Não Informado,3412.545
+2022-09,Granel Sólido,Desembarcados,291193.622
+2022-09,Granel Sólido,Embarcados,273202.145
+2022-10,Carga Conteinerizada,Desembarcados,398644.451
+2022-10,Carga Conteinerizada,Embarcados,204994.31399999998
+2022-10,Carga Conteinerizada,Não Informado,259.3
+2022-10,Carga Geral,Desembarcados,179890.377
+2022-10,Carga Geral,Embarcados,90385.718
+2022-10,Granel Líquido e Gasoso,Desembarcados,442667.415
+2022-10,Granel Líquido e Gasoso,Embarcados,330803.571
+2022-10,Granel Líquido e Gasoso,Não Informado,4338.518
+2022-10,Granel Sólido,Desembarcados,360421.704
+2022-10,Granel Sólido,Embarcados,281850.26399999997
+2022-11,Carga Conteinerizada,Desembarcados,442160.272
+2022-11,Carga Conteinerizada,Embarcados,188531.48
+2022-11,Carga Conteinerizada,Não Informado,74.565
+2022-11,Carga Geral,Desembarcados,183470.141
+2022-11,Carga Geral,Embarcados,89090.249
+2022-11,Granel Líquido e Gasoso,Desembarcados,489113.819
+2022-11,Granel Líquido e Gasoso,Embarcados,325925.613
+2022-11,Granel Líquido e Gasoso,Não Informado,4524.116
+2022-11,Granel Sólido,Desembarcados,319573.672
+2022-11,Granel Sólido,Embarcados,369337.17600000004
+2022-11,Granel Sólido,Não Informado,4.18
+2022-12,Carga Conteinerizada,Desembarcados,414058.02
+2022-12,Carga Conteinerizada,Embarcados,184024.801
+2022-12,Carga Conteinerizada,Não Informado,238.293
+2022-12,Carga Geral,Desembarcados,223158.80299999999
+2022-12,Carga Geral,Embarcados,80868.947
+2022-12,Granel Líquido e Gasoso,Desembarcados,529283.362
+2022-12,Granel Líquido e Gasoso,Embarcados,312656.13
+2022-12,Granel Líquido e Gasoso,Não Informado,33.18
+2022-12,Granel Sólido,Desembarcados,370761.497
+2022-12,Granel Sólido,Embarcados,392220.059
+2023-01,Carga Conteinerizada,Desembarcados,441256.268
+2023-01,Carga Conteinerizada,Embarcados,200870.728
+2023-01,Carga Conteinerizada,Não Informado,48.8
+2023-01,Carga Geral,Desembarcados,246572.422
+2023-01,Carga Geral,Embarcados,65342.409
+2023-01,Granel Líquido e Gasoso,Desembarcados,462605.514
+2023-01,Granel Líquido e Gasoso,Embarcados,288144.558
+2023-01,Granel Sólido,Desembarcados,437238.677
+2023-01,Granel Sólido,Embarcados,364935.49199999997
+2023-02,Carga Conteinerizada,Desembarcados,445736.684
+2023-02,Carga Conteinerizada,Embarcados,202363.22400000002
+2023-02,Carga Geral,Desembarcados,129465.829
+2023-02,Carga Geral,Embarcados,63547.675
+2023-02,Granel Líquido e Gasoso,Desembarcados,404382.393
+2023-02,Granel Líquido e Gasoso,Embarcados,266879.386
+2023-02,Granel Líquido e Gasoso,Não Informado,12.534
+2023-02,Granel Sólido,Desembarcados,643975.748
+2023-02,Granel Sólido,Embarcados,605585.732
+2023-03,Carga Conteinerizada,Desembarcados,455256.824
+2023-03,Carga Conteinerizada,Embarcados,232881.557
+2023-03,Carga Conteinerizada,Não Informado,76.71000000000001
+2023-03,Carga Geral,Desembarcados,155305.243
+2023-03,Carga Geral,Embarcados,77542.662
+2023-03,Granel Líquido e Gasoso,Desembarcados,467458.632
+2023-03,Granel Líquido e Gasoso,Embarcados,354480.288
+2023-03,Granel Líquido e Gasoso,Não Informado,73.49000000000001
+2023-03,Granel Sólido,Desembarcados,730522.506
+2023-03,Granel Sólido,Embarcados,668450.498
+2023-04,Carga Conteinerizada,Desembarcados,431588.202
+2023-04,Carga Conteinerizada,Embarcados,238127.549
+2023-04,Carga Conteinerizada,Não Informado,6.6000000000000005
+2023-04,Carga Geral,Desembarcados,166975.687
+2023-04,Carga Geral,Embarcados,64708.762
+2023-04,Granel Líquido e Gasoso,Desembarcados,412304.537
+2023-04,Granel Líquido e Gasoso,Embarcados,327335.484
+2023-04,Granel Sólido,Desembarcados,727131.277
+2023-04,Granel Sólido,Embarcados,711796.698
+2023-05,Carga Conteinerizada,Desembarcados,463983.968
+2023-05,Carga Conteinerizada,Embarcados,220717.714
+2023-05,Carga Geral,Desembarcados,143738.488
+2023-05,Carga Geral,Embarcados,67348.08
+2023-05,Granel Líquido e Gasoso,Desembarcados,460687.016
+2023-05,Granel Líquido e Gasoso,Embarcados,354603.755
+2023-05,Granel Líquido e Gasoso,Não Informado,76.0
+2023-05,Granel Sólido,Desembarcados,893863.316
+2023-05,Granel Sólido,Embarcados,799397.251
+2023-06,Carga Conteinerizada,Desembarcados,489878.402
+2023-06,Carga Conteinerizada,Embarcados,243446.176
+2023-06,Carga Conteinerizada,Não Informado,13.200000000000001
+2023-06,Carga Geral,Desembarcados,135070.852
+2023-06,Carga Geral,Embarcados,68085.705
+2023-06,Granel Líquido e Gasoso,Desembarcados,542149.5430000001
+2023-06,Granel Líquido e Gasoso,Embarcados,373385.889
+2023-06,Granel Sólido,Desembarcados,845978.983
+2023-06,Granel Sólido,Embarcados,690736.103
+2023-07,Carga Conteinerizada,Desembarcados,484964.563
+2023-07,Carga Conteinerizada,Embarcados,229762.405
+2023-07,Carga Conteinerizada,Não Informado,62.42
+2023-07,Carga Geral,Desembarcados,138577.719
+2023-07,Carga Geral,Embarcados,72973.051
+2023-07,Granel Líquido e Gasoso,Desembarcados,553555.519
+2023-07,Granel Líquido e Gasoso,Embarcados,346888.179
+2023-07,Granel Sólido,Desembarcados,811246.441
+2023-07,Granel Sólido,Embarcados,806953.242
+2023-08,Carga Conteinerizada,Desembarcados,597774.772
+2023-08,Carga Conteinerizada,Embarcados,303816.787
+2023-08,Carga Conteinerizada,Não Informado,11.583
+2023-08,Carga Geral,Desembarcados,165782.505
+2023-08,Carga Geral,Embarcados,76137.513
+2023-08,Granel Líquido e Gasoso,Desembarcados,577312.382
+2023-08,Granel Líquido e Gasoso,Embarcados,306157.712
+2023-08,Granel Sólido,Desembarcados,788671.975
+2023-08,Granel Sólido,Embarcados,715976.67
+2023-09,Carga Conteinerizada,Desembarcados,429431.824
+2023-09,Carga Conteinerizada,Embarcados,227379.166
+2023-09,Carga Conteinerizada,Não Informado,30.67
+2023-09,Carga Geral,Desembarcados,145616.414
+2023-09,Carga Geral,Embarcados,78549.415
+2023-09,Granel Líquido e Gasoso,Desembarcados,353902.957
+2023-09,Granel Líquido e Gasoso,Embarcados,302032.783
+2023-09,Granel Sólido,Desembarcados,534153.7880000001
+2023-09,Granel Sólido,Embarcados,561317.386
+2023-10,Carga Conteinerizada,Desembarcados,86916.442
+2023-10,Carga Conteinerizada,Embarcados,57664.475
+2023-10,Carga Conteinerizada,Não Informado,30.72
+2023-10,Carga Geral,Desembarcados,344433.001
+2023-10,Carga Geral,Embarcados,106249.071
+2023-10,Granel Líquido e Gasoso,Desembarcados,194200.457
+2023-10,Granel Líquido e Gasoso,Embarcados,155416.744
+2023-10,Granel Sólido,Desembarcados,290897.553
+2023-10,Granel Sólido,Embarcados,346827.102
+2023-11,Carga Conteinerizada,Desembarcados,102111.807
+2023-11,Carga Conteinerizada,Embarcados,77998.369
+2023-11,Carga Conteinerizada,Não Informado,20.0
+2023-11,Carga Geral,Desembarcados,170617.088
+2023-11,Carga Geral,Embarcados,101587.53
+2023-11,Granel Líquido e Gasoso,Desembarcados,217502.112
+2023-11,Granel Líquido e Gasoso,Embarcados,133797.24
+2023-11,Granel Líquido e Gasoso,Não Informado,119.418
+2023-11,Granel Sólido,Desembarcados,240407.998
+2023-11,Granel Sólido,Embarcados,406578.719
+2023-12,Carga Conteinerizada,Desembarcados,410212.394
+2023-12,Carga Conteinerizada,Embarcados,143663.056
+2023-12,Carga Conteinerizada,Não Informado,62.52
+2023-12,Carga Geral,Desembarcados,251038.075
+2023-12,Carga Geral,Embarcados,96372.129
+2023-12,Granel Líquido e Gasoso,Desembarcados,192163.898
+2023-12,Granel Líquido e Gasoso,Embarcados,185638.887
+2023-12,Granel Sólido,Desembarcados,564565.108
+2023-12,Granel Sólido,Embarcados,349873.882
+2024-01,Carga Conteinerizada,Desembarcados,533578.143
+2024-01,Carga Conteinerizada,Embarcados,197282.585
+2024-01,Carga Conteinerizada,Não Informado,576.3
+2024-01,Carga Geral,Desembarcados,174885.353
+2024-01,Carga Geral,Embarcados,80475.682
+2024-01,Granel Líquido e Gasoso,Desembarcados,451262.606
+2024-01,Granel Líquido e Gasoso,Embarcados,335441.759
+2024-01,Granel Líquido e Gasoso,Não Informado,247.724
+2024-01,Granel Sólido,Desembarcados,585453.501
+2024-01,Granel Sólido,Embarcados,616237.885
+2024-02,Carga Conteinerizada,Desembarcados,483044.185
+2024-02,Carga Conteinerizada,Embarcados,262146.941
+2024-02,Carga Geral,Desembarcados,127491.581
+2024-02,Carga Geral,Embarcados,77244.858
+2024-02,Granel Líquido e Gasoso,Desembarcados,379992.362
+2024-02,Granel Líquido e Gasoso,Embarcados,228713.008
+2024-02,Granel Sólido,Desembarcados,865337.498
+2024-02,Granel Sólido,Embarcados,927561.238
+2024-03,Carga Conteinerizada,Desembarcados,497959.065
+2024-03,Carga Conteinerizada,Embarcados,274287.50299999997
+2024-03,Carga Conteinerizada,Não Informado,58.615
+2024-03,Carga Geral,Desembarcados,244026.285
+2024-03,Carga Geral,Embarcados,84146.148
+2024-03,Granel Líquido e Gasoso,Desembarcados,404339.943
+2024-03,Granel Líquido e Gasoso,Embarcados,358877.227
+2024-03,Granel Sólido,Desembarcados,898113.597
+2024-03,Granel Sólido,Embarcados,766258.498
+2024-04,Carga Conteinerizada,Desembarcados,495988.546
+2024-04,Carga Conteinerizada,Embarcados,250583.754
+2024-04,Carga Conteinerizada,Não Informado,919.03
+2024-04,Carga Geral,Desembarcados,172857.42799999999
+2024-04,Carga Geral,Embarcados,88716.583
+2024-04,Granel Líquido e Gasoso,Desembarcados,282441.174
+2024-04,Granel Líquido e Gasoso,Embarcados,300133.787
+2024-04,Granel Sólido,Desembarcados,854205.259
+2024-04,Granel Sólido,Embarcados,741163.155
+2024-05,Carga Conteinerizada,Desembarcados,410041.705
+2024-05,Carga Conteinerizada,Embarcados,209178.557
+2024-05,Carga Conteinerizada,Não Informado,162.37199999999999
+2024-05,Carga Geral,Desembarcados,213571.69
+2024-05,Carga Geral,Embarcados,81163.372
+2024-05,Granel Líquido e Gasoso,Desembarcados,300501.354
+2024-05,Granel Líquido e Gasoso,Embarcados,301059.908
+2024-05,Granel Sólido,Desembarcados,809546.41
+2024-05,Granel Sólido,Embarcados,791211.896
+2024-06,Carga Conteinerizada,Desembarcados,604164.717
+2024-06,Carga Conteinerizada,Embarcados,315783.803
+2024-06,Carga Geral,Desembarcados,135569.682
+2024-06,Carga Geral,Embarcados,103928.818
+2024-06,Granel Líquido e Gasoso,Desembarcados,263399.282
+2024-06,Granel Líquido e Gasoso,Embarcados,425072.432
+2024-06,Granel Sólido,Desembarcados,761680.452
+2024-06,Granel Sólido,Embarcados,695939.02
+2024-07,Carga Conteinerizada,Desembarcados,636288.25
+2024-07,Carga Conteinerizada,Embarcados,286327.105
+2024-07,Carga Conteinerizada,Não Informado,148.73
+2024-07,Carga Geral,Desembarcados,236919.41999999998
+2024-07,Carga Geral,Embarcados,76071.891
+2024-07,Granel Líquido e Gasoso,Desembarcados,918562.864
+2024-07,Granel Líquido e Gasoso,Embarcados,409161.249
+2024-07,Granel Sólido,Desembarcados,930303.771
+2024-07,Granel Sólido,Embarcados,929887.678
+2024-08,Carga Conteinerizada,Desembarcados,568750.732
+2024-08,Carga Conteinerizada,Embarcados,276624.634
+2024-08,Carga Geral,Desembarcados,244956.579
+2024-08,Carga Geral,Embarcados,85621.37
+2024-08,Granel Líquido e Gasoso,Desembarcados,377342.631
+2024-08,Granel Líquido e Gasoso,Embarcados,410683.045
+2024-08,Granel Sólido,Desembarcados,468954.262
+2024-08,Granel Sólido,Embarcados,552980.427
+2024-09,Carga Conteinerizada,Desembarcados,526285.368
+2024-09,Carga Conteinerizada,Embarcados,171442.177
+2024-09,Carga Geral,Desembarcados,251222.491
+2024-09,Carga Geral,Embarcados,82795.198
+2024-09,Granel Líquido e Gasoso,Desembarcados,290938.79
+2024-09,Granel Líquido e Gasoso,Embarcados,261258.415
+2024-09,Granel Sólido,Desembarcados,164080.075
+2024-09,Granel Sólido,Embarcados,154593.315
+2024-10,Carga Conteinerizada,Desembarcados,323235.27999999997
+2024-10,Carga Conteinerizada,Embarcados,229713.05
+2024-10,Carga Geral,Desembarcados,172069.102
+2024-10,Carga Geral,Embarcados,103954.191
+2024-10,Granel Líquido e Gasoso,Desembarcados,259502.464
+2024-10,Granel Líquido e Gasoso,Embarcados,225163.367
+2024-10,Granel Sólido,Desembarcados,257085.478
+2024-10,Granel Sólido,Embarcados,158266.014
+2024-11,Carga Conteinerizada,Desembarcados,369707.867
+2024-11,Carga Conteinerizada,Embarcados,259648.581
+2024-11,Carga Geral,Desembarcados,138269.742
+2024-11,Carga Geral,Embarcados,106479.394
+2024-11,Granel Líquido e Gasoso,Desembarcados,263392.631
+2024-11,Granel Líquido e Gasoso,Embarcados,294742.307
+2024-11,Granel Sólido,Desembarcados,207994.124
+2024-11,Granel Sólido,Embarcados,182966.66199999998
+2024-12,Carga Conteinerizada,Desembarcados,344777.887
+2024-12,Carga Conteinerizada,Embarcados,239978.44
+2024-12,Carga Conteinerizada,Não Informado,2.6
+2024-12,Carga Geral,Desembarcados,134883.869
+2024-12,Carga Geral,Embarcados,82551.151
+2024-12,Granel Líquido e Gasoso,Desembarcados,318546.072
+2024-12,Granel Líquido e Gasoso,Embarcados,289413.223
+2024-12,Granel Sólido,Desembarcados,510987.443
+2024-12,Granel Sólido,Embarcados,331933.071
+2025-01,Carga Conteinerizada,Desembarcados,463694.493
+2025-01,Carga Conteinerizada,Embarcados,274855.792
+2025-01,Carga Conteinerizada,Não Informado,546.85
+2025-01,Carga Geral,Desembarcados,195183.919
+2025-01,Carga Geral,Embarcados,75882.192
+2025-01,Granel Líquido e Gasoso,Desembarcados,376377.79
+2025-01,Granel Líquido e Gasoso,Embarcados,359726.539
+2025-01,Granel Líquido e Gasoso,Não Informado,532.574
+2025-01,Granel Sólido,Desembarcados,428225.039
+2025-01,Granel Sólido,Embarcados,652084.374
+2025-02,Carga Conteinerizada,Desembarcados,519281.951
+2025-02,Carga Conteinerizada,Embarcados,282464.812
+2025-02,Carga Conteinerizada,Não Informado,790.12
+2025-02,Carga Geral,Desembarcados,181758.252
+2025-02,Carga Geral,Embarcados,81955.09
+2025-02,Granel Líquido e Gasoso,Desembarcados,336749.793
+2025-02,Granel Líquido e Gasoso,Embarcados,410017.81799999997
+2025-02,Granel Sólido,Desembarcados,850853.542
+2025-02,Granel Sólido,Embarcados,822254.6089999999
+2025-03,Carga Conteinerizada,Desembarcados,548789.168
+2025-03,Carga Conteinerizada,Embarcados,300108.279
+2025-03,Carga Conteinerizada,Não Informado,604.91
+2025-03,Carga Geral,Desembarcados,248645.663
+2025-03,Carga Geral,Embarcados,78601.403
+2025-03,Granel Líquido e Gasoso,Desembarcados,251055.745
+2025-03,Granel Líquido e Gasoso,Embarcados,435282.245
+2025-03,Granel Sólido,Desembarcados,1146506.906
+2025-03,Granel Sólido,Embarcados,1187563.905
+2025-04,Carga Conteinerizada,Desembarcados,626934.21
+2025-04,Carga Conteinerizada,Embarcados,280395.01
+2025-04,Carga Conteinerizada,Não Informado,651.3
+2025-04,Carga Geral,Desembarcados,224420.384
+2025-04,Carga Geral,Embarcados,84589.351
+2025-04,Granel Líquido e Gasoso,Desembarcados,326483.961
+2025-04,Granel Líquido e Gasoso,Embarcados,394245.134
+2025-04,Granel Sólido,Desembarcados,1092334.249
+2025-04,Granel Sólido,Embarcados,961922.342
+2025-05,Carga Conteinerizada,Desembarcados,690330.922
+2025-05,Carga Conteinerizada,Embarcados,333178.9
+2025-05,Carga Conteinerizada,Não Informado,185.23
+2025-05,Carga Geral,Desembarcados,215059.637
+2025-05,Carga Geral,Embarcados,86968.179
+2025-05,Granel Líquido e Gasoso,Desembarcados,337273.606
+2025-05,Granel Líquido e Gasoso,Embarcados,439637.095
+2025-05,Granel Sólido,Desembarcados,1240160.945
+2025-05,Granel Sólido,Embarcados,1221477.099
+2025-06,Carga Conteinerizada,Desembarcados,513558.995
+2025-06,Carga Conteinerizada,Embarcados,257493.066
+2025-06,Carga Conteinerizada,Não Informado,1355.07
+2025-06,Carga Geral,Desembarcados,240330.766
+2025-06,Carga Geral,Embarcados,82621.082
+2025-06,Granel Líquido e Gasoso,Desembarcados,356107.341
+2025-06,Granel Líquido e Gasoso,Embarcados,402594.355
+2025-06,Granel Sólido,Desembarcados,911364.946
+2025-06,Granel Sólido,Embarcados,791541.19
+2025-07,Carga Conteinerizada,Desembarcados,683477.191
+2025-07,Carga Conteinerizada,Embarcados,319045.268
+2025-07,Carga Conteinerizada,Não Informado,255.01999999999998
+2025-07,Carga Geral,Desembarcados,168267.182
+2025-07,Carga Geral,Embarcados,71634.731
+2025-07,Granel Líquido e Gasoso,Desembarcados,383980.391
+2025-07,Granel Líquido e Gasoso,Embarcados,443562.856
+2025-07,Granel Sólido,Desembarcados,988488.002
+2025-07,Granel Sólido,Embarcados,923690.526
+2025-08,Carga Conteinerizada,Desembarcados,616139.245
+2025-08,Carga Conteinerizada,Embarcados,328813.811
+2025-08,Carga Conteinerizada,Não Informado,629.88
+2025-08,Carga Geral,Desembarcados,205542.911
+2025-08,Carga Geral,Embarcados,90803.151
+2025-08,Granel Líquido e Gasoso,Desembarcados,481109.98699999996
+2025-08,Granel Líquido e Gasoso,Embarcados,365397.408
+2025-08,Granel Sólido,Desembarcados,827379.244
+2025-08,Granel Sólido,Embarcados,805213.545
+2025-09,Carga Conteinerizada,Desembarcados,509301.063
+2025-09,Carga Conteinerizada,Embarcados,262608.354
+2025-09,Carga Conteinerizada,Não Informado,170.42
+2025-09,Carga Geral,Desembarcados,325258.091
+2025-09,Carga Geral,Embarcados,83448.434
+2025-09,Granel Líquido e Gasoso,Desembarcados,310986.459
+2025-09,Granel Líquido e Gasoso,Embarcados,370686.347
+2025-09,Granel Sólido,Desembarcados,567138.919
+2025-09,Granel Sólido,Embarcados,534291.366
+2025-10,Carga Conteinerizada,Desembarcados,572396.633
+2025-10,Carga Conteinerizada,Embarcados,311288.274
+2025-10,Carga Conteinerizada,Não Informado,884.95
+2025-10,Carga Geral,Desembarcados,149135.267
+2025-10,Carga Geral,Embarcados,88158.723
+2025-10,Granel Líquido e Gasoso,Desembarcados,402719.153
+2025-10,Granel Líquido e Gasoso,Embarcados,350650.961
+2025-10,Granel Sólido,Desembarcados,401959.279
+2025-10,Granel Sólido,Embarcados,491388.014
+2025-11,Carga Conteinerizada,Desembarcados,474295.474
+2025-11,Carga Conteinerizada,Embarcados,301493.148
+2025-11,Carga Conteinerizada,Não Informado,65.02
+2025-11,Carga Geral,Desembarcados,119828.302
+2025-11,Carga Geral,Embarcados,75979.469
+2025-11,Granel Líquido e Gasoso,Desembarcados,312735.36
+2025-11,Granel Líquido e Gasoso,Embarcados,360591.455
+2025-11,Granel Sólido,Desembarcados,530078.776
+2025-11,Granel Sólido,Embarcados,446380.631
+2025-12,Carga Conteinerizada,Desembarcados,471390.971
+2025-12,Carga Conteinerizada,Embarcados,270710.037
+2025-12,Carga Conteinerizada,Não Informado,140.94
+2025-12,Carga Geral,Desembarcados,98313.139
+2025-12,Carga Geral,Embarcados,78351.475
+2025-12,Granel Líquido e Gasoso,Desembarcados,453458.007
+2025-12,Granel Líquido e Gasoso,Embarcados,369385.995
+2025-12,Granel Sólido,Desembarcados,625715.782
+2025-12,Granel Sólido,Embarcados,523035.955
+2026-01,Carga Conteinerizada,Desembarcados,592685.6630000001
+2026-01,Carga Conteinerizada,Embarcados,314891.988
+2026-01,Carga Conteinerizada,Não Informado,1347.62
+2026-01,Carga Geral,Desembarcados,146339.317
+2026-01,Carga Geral,Embarcados,77018.713
+2026-01,Granel Líquido e Gasoso,Desembarcados,359224.888
+2026-01,Granel Líquido e Gasoso,Embarcados,321129.395
+2026-01,Granel Sólido,Desembarcados,666794.375
+2026-01,Granel Sólido,Embarcados,607703.7339999999
+2026-02,Carga Conteinerizada,Desembarcados,454987.44
+2026-02,Carga Conteinerizada,Embarcados,300630.027
+2026-02,Carga Conteinerizada,Não Informado,997.58
+2026-02,Carga Geral,Desembarcados,125221.496
+2026-02,Carga Geral,Embarcados,76222.55
+2026-02,Granel Líquido e Gasoso,Desembarcados,347882.444
+2026-02,Granel Líquido e Gasoso,Embarcados,300676.291
+2026-02,Granel Líquido e Gasoso,Não Informado,90.0
+2026-02,Granel Sólido,Desembarcados,963496.887
+2026-02,Granel Sólido,Embarcados,547794.983
+2026-03,Carga Conteinerizada,Desembarcados,542080.823
+2026-03,Carga Conteinerizada,Embarcados,292324.306
+2026-03,Carga Conteinerizada,Não Informado,295.99
+2026-03,Carga Geral,Desembarcados,234924.58299999998
+2026-03,Carga Geral,Embarcados,90912.776
+2026-03,Granel Líquido e Gasoso,Desembarcados,390090.994
+2026-03,Granel Líquido e Gasoso,Embarcados,387975.335
+2026-03,Granel Líquido e Gasoso,Não Informado,35.265
+2026-03,Granel Sólido,Desembarcados,702672.799
+2026-03,Granel Sólido,Embarcados,552617.006
+2026-04,Carga Conteinerizada,Desembarcados,499067.296
+2026-04,Carga Conteinerizada,Embarcados,241159.619
+2026-04,Carga Geral,Desembarcados,194077.25
+2026-04,Carga Geral,Embarcados,27236.379
+2026-04,Granel Líquido e Gasoso,Desembarcados,232356.071
+2026-04,Granel Líquido e Gasoso,Embarcados,228494.434
+2026-04,Granel Sólido,Desembarcados,566119.193
+2026-05,Granel Líquido e Gasoso,Desembarcados,15538.778
+2026-05,Granel Líquido e Gasoso,Embarcados,54086.765

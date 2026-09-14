@@ -1,0 +1,46 @@
+{
+  "etapa": "Integração mensal rios x preços (Região Norte)",
+  "data_processamento": "2026-09-13T20:10:35.395711",
+  "chave_de_join": [
+    "uf",
+    "AnoMes (YYYY-MM)"
+  ],
+  "fontes": {
+    "rios": "Dados_nivel_rios\\Dados Tratados\\cotas_tratado.csv",
+    "anp_semanal_municipio": "Dados_precos\\Dados Tratados\\anp_slp_serie_semanal_municipio.csv",
+    "anp_semanal_regional": "Dados_precos\\Dados Tratados\\anp_slp_serie_semanal_regional.csv",
+    "conab_mensal_uf": "Dados_precos\\Dados Tratados\\Preos-agropecurios-Mensal-UF_Norte.csv",
+    "prohort_mensal": "Dados_precos\\Dados Tratados\\Prohort-Mensal_Norte.csv"
+  },
+  "excluidos_deste_escopo": {
+    "ANTAQ": "só cobre o Amazonas (SGUF fixo em 'AM'); não incluído por instrução explícita do usuário.",
+    "IPCA": "notebook de preços só salva o JSON bruto do IPCA; df_ipca limpo nunca é persistido em CSV.",
+    "Preos-Mnimos_Norte.csv": "preço mínimo de política pública (não de mercado), varia por período de vigência, não por mês."
+  },
+  "decisoes": [
+    "Rios agregados por (uf, AnoMes) usando média/máx/mín de cota_cm entre todas as estações daquela UF naquele mês.",
+    "ANP: poucos produtos -> pivotado para wide (uma coluna por combustível), sem fan-out.",
+    "CONAB e Prohort: muitos produtos -> mantidos em formato long (uma linha por produto), rio repetido por produto.",
+    "Prohort-Mensal: usada a UF de ORIGEM do produto (uf_origem_produto), não a UF do CEASA (uf_ceasa), e linhas cuja origem não é do Norte foram descartadas mesmo se o CEASA fosse do Norte."
+  ],
+  "resultado": {
+    "rio_mensal_uf": {
+      "linhas": 316,
+      "ufs": 7
+    },
+    "painel_mensal_rios_anp": {
+      "linhas": 316
+    },
+    "rios_conab_mensal": {
+      "linhas": 1566,
+      "produtos": 112
+    },
+    "rios_prohort_mensal": {
+      "linhas": 10440,
+      "produtos": 292
+    },
+    "mega_tabela_integrada_mensal": {
+      "linhas": 32249
+    }
+  }
+}
